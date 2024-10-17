@@ -6,6 +6,7 @@ public class HolaMundo {
     public static void main(String[] args) {
         holaMundo();
         saludo();
+        despedida();
     }
 
     public static void holaMundo() {
