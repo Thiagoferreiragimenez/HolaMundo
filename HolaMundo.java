@@ -12,7 +12,7 @@ public class HolaMundo {
     }
 
     public static void saludo() {
-        
+        System.out.print("Hola, buenas tardes/noches/días");
     }
 
     public static void despedida() {
